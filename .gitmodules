@@ -1,0 +1,3 @@
+[submodule "sdk/CMSIS-DSP"]
+	path = sdk/CMSIS-DSP
+	url = https://github.com/CoreLink-beijing/CL32Q0-CMSIS-DSP.git

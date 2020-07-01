@@ -1,0 +1,2 @@
+eflash_bin.exe用于烧写bin文件到mcu的片内flash。
+eflash_slm.exe用于烧写slm文件到mcu的片内flash。
